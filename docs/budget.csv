@@ -1,0 +1,13 @@
+group,item,quantity,unit_usd,total_usd,basis
+Prototype,Controller and logging,1,80,80,Planning allowance
+Prototype,Temperature and turbidity probes,1,180,180,Planning allowance
+Prototype,Pump and routing valves,1,200,200,Planning allowance
+Prototype,Flow and fault sensors,1,130,130,Planning allowance
+Prototype,Enclosure wiring and protected power,1,220,220,Planning allowance
+Prototype,Cartridges tubing and spares,1,190,190,Planning allowance
+Labor,Engineering and analysis hours,150,30,4500,Illustrative loaded hourly rate
+Validation,Cold chamber hours,20,75,1500,Facility allowance
+Validation,Reference instruments and consumables,1,1200,1200,Lab allowance
+Validation,Partner planning and compensation,1,1000,1000,Confirm scope jointly
+Reserve,Replacement and test reruns,1,800,800,Subject to sponsor rules
+Total,Phase I direct costs,,,10000,No field mobilization or indirect costs included

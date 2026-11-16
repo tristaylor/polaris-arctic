@@ -1,0 +1,33 @@
+{
+  "synthetic": true,
+  "columns": [
+    "synthetic",
+    "event_kind",
+    "reason",
+    "sample_id",
+    "volume_ml"
+  ],
+  "events": [
+    [
+      1,
+      "baseline",
+      "synthetic draw authorized",
+      "sample-A",
+      250.0
+    ],
+    [
+      1,
+      "threshold_crossing",
+      "synthetic draw authorized",
+      "sample-B",
+      250.0
+    ],
+    [
+      1,
+      "threshold_crossing",
+      "slot already used",
+      null,
+      null
+    ]
+  ]
+}
