@@ -10,6 +10,7 @@ POLARIS will test whether a shore-side instrument can preserve physical evidence
 
 | Review path | Material |
 |---|---|
+| Low-cost bench build | [Parts list and step-by-step plan](docs/bench-build.md) |
 | Proposal and funding ask | [One-page summary](docs/one-page.md), [BOM and budget](docs/budget.csv) |
 | Scientific rationale | [Gap, prior art and comparison](docs/science.md) |
 | Build and data design | [Technical architecture and data dictionary](docs/architecture.md), [SQL migration](db/001.sql) |
